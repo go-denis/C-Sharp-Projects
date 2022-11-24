@@ -11,4 +11,4 @@ Console.Clear();
 Console.Write("Введите число: ");
 int a = int.Parse(Console.ReadLine());
 
-Console.WriteLine(a % 2 == 0 ? "Четное" : "Не четное");
+Console.WriteLine(a % 2 == 0 ? "Четное число " : "Не четное число");
