@@ -1,0 +1,15 @@
+D:\MyProgects\C_projects\dz_4\bin\Debug\net7.0\dz_4.exe
+D:\MyProgects\C_projects\dz_4\bin\Debug\net7.0\dz_4.deps.json
+D:\MyProgects\C_projects\dz_4\bin\Debug\net7.0\dz_4.runtimeconfig.json
+D:\MyProgects\C_projects\dz_4\bin\Debug\net7.0\dz_4.dll
+D:\MyProgects\C_projects\dz_4\bin\Debug\net7.0\dz_4.pdb
+D:\MyProgects\C_projects\dz_4\obj\Debug\net7.0\dz_4.csproj.AssemblyReference.cache
+D:\MyProgects\C_projects\dz_4\obj\Debug\net7.0\dz_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProgects\C_projects\dz_4\obj\Debug\net7.0\dz_4.AssemblyInfoInputs.cache
+D:\MyProgects\C_projects\dz_4\obj\Debug\net7.0\dz_4.AssemblyInfo.cs
+D:\MyProgects\C_projects\dz_4\obj\Debug\net7.0\dz_4.csproj.CoreCompileInputs.cache
+D:\MyProgects\C_projects\dz_4\obj\Debug\net7.0\dz_4.dll
+D:\MyProgects\C_projects\dz_4\obj\Debug\net7.0\refint\dz_4.dll
+D:\MyProgects\C_projects\dz_4\obj\Debug\net7.0\dz_4.pdb
+D:\MyProgects\C_projects\dz_4\obj\Debug\net7.0\dz_4.genruntimeconfig.cache
+D:\MyProgects\C_projects\dz_4\obj\Debug\net7.0\ref\dz_4.dll
