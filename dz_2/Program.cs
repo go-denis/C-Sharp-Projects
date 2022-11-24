@@ -21,5 +21,5 @@ int c = int.Parse(Console.ReadLine());
  Array.Sort(arr);
 
 if (arr.Length > 0) {
-Console.WriteLine("Максимальное число " + arr[arr.Length - 1]);
+Console.WriteLine("Максимальное число из введенных " + arr[arr.Length - 1]);
 }
