@@ -1,0 +1,15 @@
+D:\MyProgects\C_projects\sem_2_megazadach\bin\Debug\net7.0\sem_2_megazadach.exe
+D:\MyProgects\C_projects\sem_2_megazadach\bin\Debug\net7.0\sem_2_megazadach.deps.json
+D:\MyProgects\C_projects\sem_2_megazadach\bin\Debug\net7.0\sem_2_megazadach.runtimeconfig.json
+D:\MyProgects\C_projects\sem_2_megazadach\bin\Debug\net7.0\sem_2_megazadach.dll
+D:\MyProgects\C_projects\sem_2_megazadach\bin\Debug\net7.0\sem_2_megazadach.pdb
+D:\MyProgects\C_projects\sem_2_megazadach\obj\Debug\net7.0\sem_2_megazadach.csproj.AssemblyReference.cache
+D:\MyProgects\C_projects\sem_2_megazadach\obj\Debug\net7.0\sem_2_megazadach.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProgects\C_projects\sem_2_megazadach\obj\Debug\net7.0\sem_2_megazadach.AssemblyInfoInputs.cache
+D:\MyProgects\C_projects\sem_2_megazadach\obj\Debug\net7.0\sem_2_megazadach.AssemblyInfo.cs
+D:\MyProgects\C_projects\sem_2_megazadach\obj\Debug\net7.0\sem_2_megazadach.csproj.CoreCompileInputs.cache
+D:\MyProgects\C_projects\sem_2_megazadach\obj\Debug\net7.0\sem_2_megazadach.dll
+D:\MyProgects\C_projects\sem_2_megazadach\obj\Debug\net7.0\refint\sem_2_megazadach.dll
+D:\MyProgects\C_projects\sem_2_megazadach\obj\Debug\net7.0\sem_2_megazadach.pdb
+D:\MyProgects\C_projects\sem_2_megazadach\obj\Debug\net7.0\sem_2_megazadach.genruntimeconfig.cache
+D:\MyProgects\C_projects\sem_2_megazadach\obj\Debug\net7.0\ref\sem_2_megazadach.dll
