@@ -5,12 +5,21 @@
 782 -> 8
 918 -> 1
 */
-Console.Clear();
+using System;
 
-Console.Write("Введите число: ");
+class Program
+{
+    static void Main(string[] args)
+    {
+        var n = Math.Abs(Convert.ToInt64(Console.ReadLine()));
 
-int num = int.Parse(Console.ReadLine());
-string str = Convert.ToString(num);
-Console.WriteLine("вторая цифра:  "+str[1]);
+        while (n >= 100)
+        {
+            n /= 10;
+        }
 
+        var r = n % 10;
 
+        Console.WriteLine(r);
+    }
+}
