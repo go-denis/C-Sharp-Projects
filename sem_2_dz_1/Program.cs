@@ -11,6 +11,7 @@ class Program
 {
     static void Main(string[] args)
     {
+        Console.Write("Введи число: ");
         var n = Math.Abs(Convert.ToInt64(Console.ReadLine()));
 
         while (n >= 100)
