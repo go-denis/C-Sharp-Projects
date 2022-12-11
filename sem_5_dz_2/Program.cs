@@ -15,10 +15,10 @@ Console.WriteLine("Массив готов: ");
 PrintArray(numbers);
 int sum = 0;
 
-for (int z = 0; z < numbers.Length; z+=2)
+for (int z = 1; z < numbers.Length; z+=2){
     sum = sum + numbers[z];
-
-    Console.WriteLine($"Всего {numbers.Length} чисел, сумма элементов на нечётных позициях: {sum}");
+}
+    Console.WriteLine($"Всего {numbers.Length} чис(ел/ла), сумма элементов на нечётных позициях: {sum}");
 
 void FillArrayRandomNumbers(int[] numbers)
 {
