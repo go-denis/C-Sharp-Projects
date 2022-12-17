@@ -1,0 +1,15 @@
+D:\MyProgects\C_projects\sem_7_dz_1\bin\Debug\net7.0\sem_7_dz_1.exe
+D:\MyProgects\C_projects\sem_7_dz_1\bin\Debug\net7.0\sem_7_dz_1.deps.json
+D:\MyProgects\C_projects\sem_7_dz_1\bin\Debug\net7.0\sem_7_dz_1.runtimeconfig.json
+D:\MyProgects\C_projects\sem_7_dz_1\bin\Debug\net7.0\sem_7_dz_1.dll
+D:\MyProgects\C_projects\sem_7_dz_1\bin\Debug\net7.0\sem_7_dz_1.pdb
+D:\MyProgects\C_projects\sem_7_dz_1\obj\Debug\net7.0\sem_7_dz_1.csproj.AssemblyReference.cache
+D:\MyProgects\C_projects\sem_7_dz_1\obj\Debug\net7.0\sem_7_dz_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProgects\C_projects\sem_7_dz_1\obj\Debug\net7.0\sem_7_dz_1.AssemblyInfoInputs.cache
+D:\MyProgects\C_projects\sem_7_dz_1\obj\Debug\net7.0\sem_7_dz_1.AssemblyInfo.cs
+D:\MyProgects\C_projects\sem_7_dz_1\obj\Debug\net7.0\sem_7_dz_1.csproj.CoreCompileInputs.cache
+D:\MyProgects\C_projects\sem_7_dz_1\obj\Debug\net7.0\sem_7_dz_1.dll
+D:\MyProgects\C_projects\sem_7_dz_1\obj\Debug\net7.0\refint\sem_7_dz_1.dll
+D:\MyProgects\C_projects\sem_7_dz_1\obj\Debug\net7.0\sem_7_dz_1.pdb
+D:\MyProgects\C_projects\sem_7_dz_1\obj\Debug\net7.0\sem_7_dz_1.genruntimeconfig.cache
+D:\MyProgects\C_projects\sem_7_dz_1\obj\Debug\net7.0\ref\sem_7_dz_1.dll
