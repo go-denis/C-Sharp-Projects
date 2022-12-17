@@ -1,0 +1,15 @@
+D:\MyProgects\C_projects\sem_8_dz_6\bin\Debug\net7.0\sem_8_dz_6.exe
+D:\MyProgects\C_projects\sem_8_dz_6\bin\Debug\net7.0\sem_8_dz_6.deps.json
+D:\MyProgects\C_projects\sem_8_dz_6\bin\Debug\net7.0\sem_8_dz_6.runtimeconfig.json
+D:\MyProgects\C_projects\sem_8_dz_6\bin\Debug\net7.0\sem_8_dz_6.dll
+D:\MyProgects\C_projects\sem_8_dz_6\bin\Debug\net7.0\sem_8_dz_6.pdb
+D:\MyProgects\C_projects\sem_8_dz_6\obj\Debug\net7.0\sem_8_dz_6.csproj.AssemblyReference.cache
+D:\MyProgects\C_projects\sem_8_dz_6\obj\Debug\net7.0\sem_8_dz_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProgects\C_projects\sem_8_dz_6\obj\Debug\net7.0\sem_8_dz_6.AssemblyInfoInputs.cache
+D:\MyProgects\C_projects\sem_8_dz_6\obj\Debug\net7.0\sem_8_dz_6.AssemblyInfo.cs
+D:\MyProgects\C_projects\sem_8_dz_6\obj\Debug\net7.0\sem_8_dz_6.csproj.CoreCompileInputs.cache
+D:\MyProgects\C_projects\sem_8_dz_6\obj\Debug\net7.0\sem_8_dz_6.dll
+D:\MyProgects\C_projects\sem_8_dz_6\obj\Debug\net7.0\refint\sem_8_dz_6.dll
+D:\MyProgects\C_projects\sem_8_dz_6\obj\Debug\net7.0\sem_8_dz_6.pdb
+D:\MyProgects\C_projects\sem_8_dz_6\obj\Debug\net7.0\sem_8_dz_6.genruntimeconfig.cache
+D:\MyProgects\C_projects\sem_8_dz_6\obj\Debug\net7.0\ref\sem_8_dz_6.dll
