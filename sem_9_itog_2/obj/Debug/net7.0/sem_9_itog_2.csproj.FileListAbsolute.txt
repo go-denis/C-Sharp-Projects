@@ -1,0 +1,15 @@
+D:\MyProgects\C_projects\sem_9_itog_2\bin\Debug\net7.0\sem_9_itog_2.exe
+D:\MyProgects\C_projects\sem_9_itog_2\bin\Debug\net7.0\sem_9_itog_2.deps.json
+D:\MyProgects\C_projects\sem_9_itog_2\bin\Debug\net7.0\sem_9_itog_2.runtimeconfig.json
+D:\MyProgects\C_projects\sem_9_itog_2\bin\Debug\net7.0\sem_9_itog_2.dll
+D:\MyProgects\C_projects\sem_9_itog_2\bin\Debug\net7.0\sem_9_itog_2.pdb
+D:\MyProgects\C_projects\sem_9_itog_2\obj\Debug\net7.0\sem_9_itog_2.csproj.AssemblyReference.cache
+D:\MyProgects\C_projects\sem_9_itog_2\obj\Debug\net7.0\sem_9_itog_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProgects\C_projects\sem_9_itog_2\obj\Debug\net7.0\sem_9_itog_2.AssemblyInfoInputs.cache
+D:\MyProgects\C_projects\sem_9_itog_2\obj\Debug\net7.0\sem_9_itog_2.AssemblyInfo.cs
+D:\MyProgects\C_projects\sem_9_itog_2\obj\Debug\net7.0\sem_9_itog_2.csproj.CoreCompileInputs.cache
+D:\MyProgects\C_projects\sem_9_itog_2\obj\Debug\net7.0\sem_9_itog_2.dll
+D:\MyProgects\C_projects\sem_9_itog_2\obj\Debug\net7.0\refint\sem_9_itog_2.dll
+D:\MyProgects\C_projects\sem_9_itog_2\obj\Debug\net7.0\sem_9_itog_2.pdb
+D:\MyProgects\C_projects\sem_9_itog_2\obj\Debug\net7.0\sem_9_itog_2.genruntimeconfig.cache
+D:\MyProgects\C_projects\sem_9_itog_2\obj\Debug\net7.0\ref\sem_9_itog_2.dll
