@@ -1,0 +1,15 @@
+D:\MyProgects\C_projects\Двумерные массивы и ркурсия\obj\Debug\net7.0\Двумерные массивы и ркурсия.csproj.AssemblyReference.cache
+D:\MyProgects\C_projects\Двумерные массивы и ркурсия\obj\Debug\net7.0\Двумерные массивы и ркурсия.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProgects\C_projects\Двумерные массивы и ркурсия\obj\Debug\net7.0\Двумерные массивы и ркурсия.AssemblyInfoInputs.cache
+D:\MyProgects\C_projects\Двумерные массивы и ркурсия\obj\Debug\net7.0\Двумерные массивы и ркурсия.AssemblyInfo.cs
+D:\MyProgects\C_projects\Двумерные массивы и ркурсия\obj\Debug\net7.0\Двумерные массивы и ркурсия.csproj.CoreCompileInputs.cache
+D:\MyProgects\C_projects\Двумерные массивы и ркурсия\bin\Debug\net7.0\Двумерные массивы и ркурсия.exe
+D:\MyProgects\C_projects\Двумерные массивы и ркурсия\bin\Debug\net7.0\Двумерные массивы и ркурсия.deps.json
+D:\MyProgects\C_projects\Двумерные массивы и ркурсия\bin\Debug\net7.0\Двумерные массивы и ркурсия.runtimeconfig.json
+D:\MyProgects\C_projects\Двумерные массивы и ркурсия\bin\Debug\net7.0\Двумерные массивы и ркурсия.dll
+D:\MyProgects\C_projects\Двумерные массивы и ркурсия\bin\Debug\net7.0\Двумерные массивы и ркурсия.pdb
+D:\MyProgects\C_projects\Двумерные массивы и ркурсия\obj\Debug\net7.0\Двумерные массивы и ркурсия.dll
+D:\MyProgects\C_projects\Двумерные массивы и ркурсия\obj\Debug\net7.0\refint\Двумерные массивы и ркурсия.dll
+D:\MyProgects\C_projects\Двумерные массивы и ркурсия\obj\Debug\net7.0\Двумерные массивы и ркурсия.pdb
+D:\MyProgects\C_projects\Двумерные массивы и ркурсия\obj\Debug\net7.0\Двумерные массивы и ркурсия.genruntimeconfig.cache
+D:\MyProgects\C_projects\Двумерные массивы и ркурсия\obj\Debug\net7.0\ref\Двумерные массивы и ркурсия.dll

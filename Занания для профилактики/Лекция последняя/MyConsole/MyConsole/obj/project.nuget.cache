@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Iivwpb2cAVyyg9TC5Jp9e4xXGsy8sexpJWFeKFnV1Pqoi1rFmBFk2HW3KRnwgWq586YFGDU6ualcf2BUX1gf9Q==",
+  "success": true,
+  "projectFilePath": "D:\\MyProgects\\C_projects\\Лекция последняя\\MyConsole\\MyConsole\\MyConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\go-de\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\go-de\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\go-de\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\go-de\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
